@@ -1,0 +1,73 @@
+match_id,group,local,visitor,local_score,visitor_score,status
+1,A,México,Sudáfrica,,,Pendiente
+2,A,Corea del Sur,Chequia,,,Pendiente
+3,A,Chequia,Sudáfrica,,,Pendiente
+4,A,México,Corea del Sur,,,Pendiente
+5,A,Sudáfrica,Corea del Sur,,,Pendiente
+6,A,Chequia,México,,,Pendiente
+7,B,Canadá,Bosnia y Herzegovina,,,Pendiente
+8,B,Qatar,Suiza,,,Pendiente
+9,B,Suiza,Bosnia y Herzegovina,,,Pendiente
+10,B,Canadá,Qatar,,,Pendiente
+11,B,Suiza,Canadá,,,Pendiente
+12,B,Bosnia y Herzegovina,Qatar,,,Pendiente
+13,C,Brasil,Marruecos,,,Pendiente
+14,C,Haití,Escocia,,,Pendiente
+15,C,Escocia,Marruecos,,,Pendiente
+16,C,Brasil,Haití,,,Pendiente
+17,C,Escocia,Brasil,,,Pendiente
+18,C,Marruecos,Haití,,,Pendiente
+19,D,Estados Unidos,Paraguay,,,Pendiente
+20,D,Australia,Turquía,,,Pendiente
+21,D,Estados Unidos,Australia,,,Pendiente
+22,D,Turquía,Paraguay,,,Pendiente
+23,D,Turquía,Estados Unidos,,,Pendiente
+24,D,Paraguay,Australia,,,Pendiente
+25,E,Alemania,Curazao,,,Pendiente
+26,E,Costa de Marfil,Ecuador,,,Pendiente
+27,E,Alemania,Costa de Marfil,,,Pendiente
+28,E,Ecuador,Curazao,,,Pendiente
+29,E,Curazao,Costa de Marfil,,,Pendiente
+30,E,Ecuador,Alemania,,,Pendiente
+31,F,Países Bajos,Japón,,,Pendiente
+32,F,Suecia,Túnez,,,Pendiente
+33,F,Países Bajos,Suecia,,,Pendiente
+34,F,Túnez,Japón,,,Pendiente
+35,F,Japón,Suecia,,,Pendiente
+36,F,Túnez,Países Bajos,,,Pendiente
+37,G,Bélgica,Egipto,,,Pendiente
+38,G,Irán,Nueva Zelanda,,,Pendiente
+39,G,Bélgica,Irán,,,Pendiente
+40,G,Nueva Zelanda,Egipto,,,Pendiente
+41,G,Egipto,Irán,,,Pendiente
+42,G,Nueva Zelanda,Bélgica,,,Pendiente
+43,H,España,Cabo Verde,,,Pendiente
+44,H,Arabia Saudita,Uruguay,,,Pendiente
+45,H,España,Arabia Saudita,,,Pendiente
+46,H,Uruguay,Cabo Verde,,,Pendiente
+47,H,Cabo Verde,Arabia Saudita,,,Pendiente
+48,H,Uruguay,España,,,Pendiente
+49,I,Francia,Senegal,,,Pendiente
+50,I,Irak,Noruega,,,Pendiente
+51,I,Francia,Irak,,,Pendiente
+52,I,Noruega,Senegal,,,Pendiente
+53,I,Noruega,Francia,,,Pendiente
+54,I,Senegal,Irak,,,Pendiente
+55,J,Argentina,Argelia,,,Pendiente
+56,J,Austria,Jordania,,,Pendiente
+57,J,Argentina,Austria,,,Pendiente
+58,J,Jordania,Argelia,,,Pendiente
+59,J,Argelia,Austria,,,Pendiente
+60,J,Jordania,Argentina,,,Pendiente
+61,K,Portugal,RD Congo,,,Pendiente
+62,K,Uzbekistán,Colombia,,,Pendiente
+63,K,Portugal,Uzbekistán,,,Pendiente
+64,K,Colombia,RD Congo,,,Pendiente
+65,K,Colombia,Portugal,,,Pendiente
+66,K,RD Congo,Uzbekistán,,,Pendiente
+67,L,Inglaterra,Croacia,,,Pendiente
+68,L,Ghana,Panamá,,,Pendiente
+69,L,Inglaterra,Ghana,,,Pendiente
+70,L,Panamá,Croacia,,,Pendiente
+71,L,Panamá,Inglaterra,,,Pendiente
+72,L,Croacia,Ghana,,,Pendiente
